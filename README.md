@@ -1,6 +1,8 @@
 # AI-algorithm-engineer-knowledge
 <font color=Fuchsia> ***努力成为一名合格有水平的AI算法工程师*** </font>
 
+![AI](4F558017EBBD4F58953B96BC88E4086D)
+
 ## 一、工程基础
 
 ### 编程语言
