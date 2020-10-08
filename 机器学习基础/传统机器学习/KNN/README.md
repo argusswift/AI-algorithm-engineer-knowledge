@@ -1,5 +1,5 @@
 ## KNN
-<div align=center><img width="150" height="150" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/KNN.PNG"/></div>
+<div align=center><img width="300" height="150" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/KNN.PNG"/></div>
 
 - 一种基本的分类和回归方法
 - 思路(少数服从多数)：给定一个训练数据集，输入一个新的数据，确定一个K值(通常为奇数，实验调参得)，找到与新数据距离最近的K个训练数据，其中，哪一类的数量多，这个数据就划分为哪一类
