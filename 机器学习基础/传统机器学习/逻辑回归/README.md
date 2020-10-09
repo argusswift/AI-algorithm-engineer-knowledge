@@ -8,7 +8,7 @@ $$F(x)=\frac{1}{1+e^{-\frac{x-\mu}{\sigma}}}$$
 $$F(x)=\frac{e^{-\frac{x-\mu}{\sigma}}}{\sigma(1+e^{-\frac{x-\mu}{\sigma}})^{2}}$$
 <div align=center><img width="500" height="160" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/logistics01.png"/></div>
 
-sigmoid函数就是logistics函数在 $\mu=0, \sigma=1 $的特殊情况
+&emsp;&emsp;sigmoid函数就是logistics函数在 $\mu=0, \sigma=1 $的特殊情况
 - 把线性回归的预测值转化为离散值(通过logistics函数)，所以是一种广义的线性回归
 $$h_{\theta }(x)=g(\theta ^{T}x)$$
 &emsp;&emsp;其中，$g(Z)=\frac{1}{1+e^{-Z}} ,\theta^{T}X=\theta_{0}+\theta_{1}x_{1}+\theta_{2}x_{2}$
