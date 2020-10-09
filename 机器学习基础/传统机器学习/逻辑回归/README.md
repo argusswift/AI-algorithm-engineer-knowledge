@@ -4,7 +4,7 @@
 
 &emsp;&emsp;分布函数:
 $$F(x)=\frac{1}{1+e^{-\frac{x-\mu}{\sigma}}}$$
-概率密度函数：
+&emsp;&emsp;概率密度函数：
 $$F(x)=\frac{e^{-\frac{x-\mu}{\sigma}}}{\sigma(1+e^{-\frac{x-\mu}{\sigma}})^{2}}$$
 <div align=center><img width="500" height="160" src="https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/logistics01.png"/></div>
 
