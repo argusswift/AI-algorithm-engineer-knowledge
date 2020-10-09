@@ -6,7 +6,7 @@
 $$F(x)=\frac{1}{1+e^{-\frac{x-\mu}{\sigma}}}$$
 概率密度函数：
 $$F(x)=\frac{e^{-\frac{x-\mu}{\sigma}}}{\sigma(1+e^{-\frac{x-\mu}{\sigma}})^{2}}$$
-![0001](01F10A62E4C64F3C8CBC722A92A1CEE7)
+![logistics01](https://github.com/ethan-sui/AI-algorithm-engineer-knowledge/blob/main/image/logistics01.png)
 sigmoid函数就是logistics函数在 $\mu=0, \sigma=1 $的特殊情况
 - 把线性回归的预测值转化为离散值(通过logistics函数)，所以是一种广义的线性回归
 $$h_{\theta }(x)=g(\theta ^{T}x)$$
