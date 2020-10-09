@@ -2,7 +2,7 @@
 - 一种分类模型，常用于二分类
 - Logistic分布：
 
-分布函数:
+&emsp;&emsp;分布函数:
 $$F(x)=\frac{1}{1+e^{-\frac{x-\mu}{\sigma}}}$$
 概率密度函数：
 $$F(x)=\frac{e^{-\frac{x-\mu}{\sigma}}}{\sigma(1+e^{-\frac{x-\mu}{\sigma}})^{2}}$$
