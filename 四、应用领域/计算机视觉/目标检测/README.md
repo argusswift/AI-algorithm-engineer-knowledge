@@ -1,7 +1,7 @@
 ## 目标检测
 ###  目标检测的指标
 - TP：真正例；FP：假正例；TN：真反例；FN：假反例
-- 准确率(Accuracy)，指所有测试用例中，预测正确的比例，即```$\frac{T}{T+N} $```
+- 准确率(Accuracy)，指所有测试用例中，预测正确的比例，即$\frac{T}{T+N} $
 $$Accuracy=\frac{TP+TN}{TP+FP+TN+FN}$$
 - 召回率(Recall)，指预测出来的正例占所有正例的比例
 $$Recall=\frac{TP}{TP+FP}$$
